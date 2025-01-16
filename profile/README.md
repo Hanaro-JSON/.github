@@ -16,13 +16,13 @@
     
   </tr>
   <tr>
-  <td align="center"><a href="https://github.com/jangdayeon">장다연</a></td>	
-  <td align="center"><a href="https://github.com/teadmu">강능요</a></td>
-  <td align="center"><a href="https://github.com/mingwan21">강민관</a></td>
-  <td align="center"><a href="https://github.com/BBZJUN">강재준</a></td>
-  <td align="center"><a href="https://github.com/yena45">김예나</a></td>
-  <td align="center"><a href="https://github.com/KyoungEun-creator">조경은</a></td>
-  <td align="center"><a href="https://github.com/jangdayeon">천혜민</a></td>	
+  <td align="center"><a href="https://github.com/jangdayeon">장다연 🐳</a></td>	
+  <td align="center"><a href="https://github.com/teadmu">강능요 🦥</a></td>
+  <td align="center"><a href="https://github.com/mingwan21">강민관 🐢</a></td>
+  <td align="center"><a href="https://github.com/BBZJUN">강재준 🐣</a></td>
+  <td align="center"><a href="https://github.com/yena45">김예나 🦧</a></td>
+  <td align="center"><a href="https://github.com/KyoungEun-creator">조경은 🐿️</a></td>
+  <td align="center"><a href="https://github.com/jangdayeon">천혜민 🧚🏻‍♀️</a></td>	
   </tr>
   	<tr>
     	<td align="center">leader</td>
