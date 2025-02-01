@@ -22,7 +22,7 @@
   <td align="center"><a href="https://github.com/BBZJUN">강재준 🐣</a></td>
   <td align="center"><a href="https://github.com/yena45">김예나 🦧</a></td>
   <td align="center"><a href="https://github.com/KyoungEun-creator">조경은 🐿️</a></td>
-  <td align="center"><a href="https://github.com/jangdayeon">천혜민 🧚🏻‍♀️</a></td>	
+  <td align="center"><a href="https://github.com/hyemch">천혜민 🧚🏻‍♀️</a></td>	
   </tr>
   	<tr>
     	<td align="center">leader</td>
