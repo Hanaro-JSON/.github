@@ -15,7 +15,7 @@
 - 개발 기간 | 2025.01.08 - 2025.02.06
 
 ## 서비스 소개
-시연 👉 <a href="https://youtu.be/O2RTzJyLwrQ?si=Po0GjpbyqLVQucqp">LIFE on HANA 시연영상</a>
+시연 👉 <a href="https://youtu.be/O2RTzJyLwrQ?si=Po0GjpbyqLVQucqp" target="_blank">LIFE on HANA 시연영상</a>
 
 ![image](https://github.com/user-attachments/assets/5a90cae3-b8a3-4ff6-9772-e20670e5a84b)
 ![image](https://github.com/user-attachments/assets/dd1d387c-516e-4490-b7c9-294abcb03636)
