@@ -54,7 +54,7 @@
   <td align="center"><a href="https://github.com/hyemch">천혜민 🧚🏻‍♀️</a></td>	
   </tr>
   	<tr>
-    	<td align="center">leader</td>
+    	<td align="center">leader / FE</td>
     	<td align="center">DBA</td>
     	<td align="center">BE</td>
     	<td align="center">FE</td>
