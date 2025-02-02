@@ -1,7 +1,8 @@
-## team JSON
+## 🌌 team JSON ( Just Sleep Over Night 일단 자고 생각하자~ )
+
 ### 디지털 하나로 4기 - 비대면 금융 서비스 개발 프로젝트
 
-### 🧗🏻 소득 크레바스에 맞닥뜨린 당신을 구해줄 든든한 동반자, 라이프 온 하나 (LIFE on HANA)
+<h1> 🧗🏻 소득 크레바스에 맞닥뜨린 당신을 구해줄 든든한 동반자, <br/> 라이프 온 하나 (LIFE on HANA) </h1>
 ![1](https://github.com/user-attachments/assets/9327a804-e661-4f31-ae4a-e2cfdbad96ad)
 
 ## 📜 목차
