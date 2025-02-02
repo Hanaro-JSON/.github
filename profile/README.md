@@ -4,20 +4,39 @@
 ### 🧗🏻 소득 크레바스에 맞닥뜨린 당신을 구해줄 든든한 동반자, 라이프 온 하나 (LIFE on HANA)
 ![1](https://github.com/user-attachments/assets/9327a804-e661-4f31-ae4a-e2cfdbad96ad)
 
-## 목차
+## 📜 목차
 - [ 개요 ](#개요)
+- [ 기술 스택 ](#기술-스택)
 - [ 서비스 소개 ](#서비스-소개)
 - [ 아키텍쳐 ](#아키텍쳐)
 - [ 팀원 ](#팀원)
 
-## 개요
+## 💜 개요
 - 퇴직자를 비롯한 베이비 붐 세대를 타겟으로 하는 월급형 자산 관리 슈퍼앱
 - 개발 기간 | 2025.01.08 - 2025.02.06
 
 ![image](https://github.com/user-attachments/assets/affeefa9-5d42-4104-8489-13a9ebe434ff)
 <br/>
 
-## 서비스 소개
+## 📚 기술 스택
+- ### Design
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+- ### Frontend
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
+
+- ### Backend
+
+- ### Infra
+
+- ### Test
+<img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+
+- ### Tools
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<br/>
+
+## 💁 서비스 소개
 시연 👉 <a href="https://youtu.be/O2RTzJyLwrQ?si=Po0GjpbyqLVQucqp" target="_blank">LIFE on HANA 시연영상</a>
 
 ![image](https://github.com/user-attachments/assets/5a90cae3-b8a3-4ff6-9772-e20670e5a84b)
@@ -34,11 +53,11 @@
 ![image](https://github.com/user-attachments/assets/c4317ef7-bf55-4f63-87a9-d5f43a4f7216)
 <br/>
 
-## 아키텍쳐
+## 🏗️ 아키텍쳐
 ![image](https://github.com/user-attachments/assets/622c7fbc-e410-4e7c-8242-aaf0031e4ae7)
 <br/>
   
-## 팀원
+## 🤗 팀원
 <table>
   <tr>
     <td><img src="https://github.com/jangdayeon.png" width="100px" /></td>
