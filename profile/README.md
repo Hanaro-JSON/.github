@@ -17,7 +17,8 @@
 - 퇴직자를 비롯한 베이비 붐 세대를 타겟으로 하는 월급형 자산 관리 슈퍼앱
 - 개발 기간 | 2025.01.08 - 2025.02.06
 
-![image](https://github.com/user-attachments/assets/affeefa9-5d42-4104-8489-13a9ebe434ff)
+![LIFE on HANA_ppt진짜진짜](https://github.com/user-attachments/assets/3117513a-9dad-4e13-93e0-e3ffbccf150d)
+
 <br/>
 
 ## 📚 기술 스택
@@ -38,6 +39,7 @@
 
 - ### Tools
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+
 <br/>
 
 ## 💁 서비스 소개
@@ -55,10 +57,12 @@
 ![image](https://github.com/user-attachments/assets/eb885697-332f-403f-8688-f36cbe68c7a6)
 ![image](https://github.com/user-attachments/assets/fa492506-50aa-42b0-8e00-91a11d2e2550)
 ![image](https://github.com/user-attachments/assets/c4317ef7-bf55-4f63-87a9-d5f43a4f7216)
+
 <br/>
 
 ## 🏗️ 아키텍쳐
 ![image](https://github.com/user-attachments/assets/622c7fbc-e410-4e7c-8242-aaf0031e4ae7)
+
 <br/>
   
 ## 🤗 팀원
