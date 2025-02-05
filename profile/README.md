@@ -2,7 +2,7 @@
 
 ### 디지털 하나로 4기 - 비대면 금융 서비스 개발 프로젝트
 
-## 📂 파트별 README❤
+## 📂 파트별 README
 - [백엔드 README](https://github.com/Hanaro-JSON/LifeOnHana_BE)
 - [프론트엔드 README](https://github.com/Hanaro-JSON/LifeOnHana_FE)
 - [AI README](https://github.com/Hanaro-JSON/LifeOnHana_AI)
