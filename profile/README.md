@@ -3,9 +3,9 @@
 ### 디지털 하나로 4기 - 비대면 금융 서비스 개발 프로젝트
 
 ## 📂 파트별 README
-- [백엔드 README](https://github.com/Hanaro-JSON/LifeOnHana_BE)
-- [프론트엔드 README](https://github.com/Hanaro-JSON/LifeOnHana_FE)
-- [AI README](https://github.com/Hanaro-JSON/LifeOnHana_AI)
+- [ 🛠 백엔드 README](https://github.com/Hanaro-JSON/LifeOnHana_BE)
+- [ 🎨 프론트엔드 README](https://github.com/Hanaro-JSON/LifeOnHana_FE)
+- [ 🤖 AI README](https://github.com/Hanaro-JSON/LifeOnHana_AI)
 
 <h1> 🧗🏻 소득 크레바스에 맞닥뜨린 당신을 구해줄 든든한 동반자, <br/> 라이프 온 하나 (LIFE on HANA) </h1>
 
